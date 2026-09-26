@@ -1,75 +1,71 @@
 <!-- =========================================================
      EJ CHRISTIAN MEDILO / EYZEN08
-     PREMIUM GITHUB PROFILE README
 ========================================================== -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:0EA5E9&height=250&section=header&text=EJ%20Christian%20Medilo&fontSize=47&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%40Eyzen08%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20System%20Design&descAlignY=57&descSize=17"
-/>
-<div align="center">
-### `Building software with purpose, clarity, and reliability.`
-<br/>
-<a href="https://github.com/Eyzen08">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Hello+World%2C+I'm+EJ+Christian+Medilo+%F0%9F%91%8B;Software+Developer+in+the+making+%F0%9F%92%BB;Full-Stack+%E2%80%A2+Backend+%E2%80%A2+System+Design;Secure+Application+Development+%F0%9F%94%90;Exploring+AI+Engineering+%26+Cloud+%F0%9F%A4%96;Design.+Build.+Secure.+Improve.+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</a>
-<br/>
-**BS Information Technology · STI College – Global City**
-<br/>
-<p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:0EA5E9&height=250&section=header&text=EJ%20Christian%20Medilo&fontSize=47&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%40Eyzen08%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20System%20Design&descAlignY=57&descSize=17" />
+
+<h3 align="center">
+  <code>Building software with purpose, clarity, and reliability.</code>
+</h3>
+
+<p align="center">
   <a href="https://github.com/Eyzen08">
-    <img
-      src="https://img.shields.io/github/followers/Eyzen08?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=0EA5E9"
-      alt="GitHub Followers"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Hello+World%2C+I'm+EJ+Christian+Medilo+%F0%9F%91%8B;Software+Developer+in+the+making+%F0%9F%92%BB;Full-Stack+%E2%80%A2+Backend+%E2%80%A2+System+Design;Secure+Application+Development+%F0%9F%94%90;Exploring+AI+Engineering+%26+Cloud+%F0%9F%A4%96;Design.+Build.+Secure.+Improve.+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=Eyzen08&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
 </p>
-<p>
+
+<p align="center">
+  <strong>BS Information Technology · STI College – Global City</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Eyzen08">
+    <img src="https://img.shields.io/github/followers/Eyzen08?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=0EA5E9" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Eyzen08&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ej-christian-medilo-a09049426/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Eyzen08/Portfolio">
-    <img
-      src="https://img.shields.io/badge/Portfolio-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ejchristianmedilo12@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Gmail-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/Eyzenen">
-    <img
-      src="https://img.shields.io/badge/Facebook-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-    />
+    <img src="https://img.shields.io/badge/Facebook-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-</div>
+
 ---
+
 # 👋 About Me
+
 I'm **EJ Christian Medilo**, a 4th-year **Bachelor of Science in Information Technology** student at **STI College – Global City** and an aspiring **Software Developer** from the Philippines.
+
 I enjoy building software that goes beyond simply making features work.
+
 I'm interested in understanding how an entire application works as a system — from the **interface and user experience** to the **backend, APIs, databases, authentication, security, real-time communication, deployment, and maintainability**.
+
 My approach to software development combines three areas:
-> ### ⚙️ Engineering
-> Building software that is reliable, secure, maintainable, and understandable.
-> ### 🎨 Design
-> Creating interfaces that are responsive, accessible, consistent, and easy to use.
-> ### 🏗️ Architecture
-> Understanding how frontend, backend, data, security, and infrastructure work together.
-<br/>
+
+### ⚙️ Engineering
+
+Building software that is **reliable, secure, maintainable, and understandable**.
+
+### 🎨 Design
+
+Creating interfaces that are **responsive, accessible, consistent, and easy to use**.
+
+### 🏗️ Architecture
+
+Understanding how **frontend, backend, data, security, and infrastructure** work together.
+
+<br>
+
 ```text
 ┌───────────────────────────────────────────────────────────┐
 │                    DEVELOPER PROFILE                      │
@@ -81,13 +77,15 @@ My approach to software development combines three areas:
 │ Interests   : Full-Stack • Backend • Security • AI       │
 │ Mindset     : Design • Build • Secure • Improve           │
 └───────────────────────────────────────────────────────────┘
+```
 
-⸻
+---
 
-🧠 Engineering Mindset
+# 🧠 Engineering Mindset
 
-I try to think about software as a complete engineering system, not just individual pages or features.
+I try to think about software as a **complete engineering system**, not simply a collection of individual pages or features.
 
+```text
                            ┌───────────────────┐
                            │   REAL PROBLEM    │
                            └─────────┬─────────┘
@@ -139,72 +137,102 @@ I try to think about software as a complete engineering system, not just individ
                        │    MAINTAINABLE    │
                        │      SOFTWARE      │
                        └────────────────────┘
+```
 
-What I value
+### What I Value
 
-Reliability · Security · Maintainability · Accessibility
+`Reliability` · `Security` · `Maintainability` · `Accessibility`
 
-Performance · Clean Architecture · User Experience · Continuous Learning
+`Performance` · `Clean Architecture` · `User Experience` · `Continuous Learning`
 
-⸻
+---
 
-⚡ Developer Philosophy
+# ⚡ Developer Philosophy
 
+```text
 01  Understand the problem before writing the solution.
+
 02  Build for real users — not only the happy path.
+
 03  Keep frontend, backend, and data responsibilities clear.
+
 04  Treat security as architecture, not an afterthought.
+
 05  Never trust important client-side input.
+
 06  Prefer readable and maintainable code over unnecessary complexity.
+
 07  Design interfaces that communicate clearly with users.
+
 08  Think about errors, edge cases, and failure states.
+
 09  Build software that can survive beyond development.
+
 10  Learn something from every system you create.
-<div align="center">
+```
 
-Think → Design → Build → Test → Secure → Deploy → Improve
+<h3 align="center">
+  <code>Think → Design → Build → Test → Secure → Deploy → Improve</code>
+</h3>
 
-</div>
+---
 
-⸻
+# 🛠️ Technical Stack
 
-🛠️ Technical Stack
+<h3 align="center">Languages & Fundamentals</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages and Fundamentals" />
+</p>
 
-Languages & Fundamentals
+<h3 align="center">Frontend</h3>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="Frontend Technologies" />
+</p>
 
-Frontend
+<h3 align="center">Backend</h3>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Technologies" />
+</p>
 
-Backend
+<h3 align="center">Databases & Services</h3>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite&theme=dark" alt="Databases and Services" />
+</p>
 
-Databases & Services
+<h3 align="center">Development Tools</h3>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" alt="Development Tools" />
+</p>
 
-Development Tools
+<h3 align="center">Cloud & Deployment</h3>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827" alt="Render" />
+</p>
 
-Cloud & Deployment
+<h3 align="center">Development Concepts</h3>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST-API-0284C7?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Socket.IO-Real_Time-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RBAC-Authorization-2563EB?style=flat-square" alt="RBAC" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database_Design-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Responsive_Design-0EA5E9?style=flat-square" alt="UI UX" />
+  <img src="https://img.shields.io/badge/Security-Secure_Development-059669?style=flat-square" alt="Security" />
+</p>
 
-Development Concepts
+---
 
-<br/>
-</div>
+# 🏗️ Areas I Enjoy Working On
 
-⸻
-
-🏗️ Areas I Enjoy Working On
-
+```text
 software-engineering/
 │
 ├── frontend/
@@ -251,15 +279,17 @@ software-engineering/
     ├── LLM applications
     ├── AI-assisted development
     └── responsible AI
+```
 
-⸻
+---
 
-🎨 Design × Engineering
+# 🎨 Design × Engineering
 
-I believe software should not only work correctly — it should also communicate clearly with the person using it.
+I believe software should not only **work correctly** — it should also communicate clearly with the person using it.
 
-That’s why I care about both development and product design.
+That's why I care about both **development and product design**.
 
+```text
                    PRODUCT EXPERIENCE
                           │
           ┌───────────────┼───────────────┐
@@ -275,43 +305,29 @@ That’s why I care about both development and product design.
           ├─ Responsive   ├─ Testing      ├─ Protection
           ├─ Accessible   ├─ Performance  └─ Auditing
           └─ Feedback     └─ Deployment
+```
 
-UI/UX areas I pay attention to
+### UI/UX Areas I Pay Attention To
 
-Visual Hierarchy
+`Visual Hierarchy` · `Responsive Layouts` · `Typography`
 
-Responsive Layouts
+`Spacing` · `Accessibility` · `Loading States`
 
-Typography
+`Empty States` · `Error States` · `Dark / Light Themes`
 
-Spacing
+`Mobile Usability` · `Design Consistency` · `Interaction Feedback`
 
-Accessibility
+> **For me, UI/UX is part of software engineering — not something added after development.**
 
-Loading States
+---
 
-Empty States
+# 🔐 Security Mindset
 
-Error States
-
-Dark / Light Themes
-
-Mobile Usability
-
-Design Consistency
-
-Interaction Feedback
-
-For me, UI/UX is part of software engineering — not something added after development.
-
-⸻
-
-🔐 Security Mindset
-
-I’m continuously developing my knowledge of secure software development.
+I'm continuously developing my knowledge of **secure software development**.
 
 I prefer thinking about security during system design rather than waiting until deployment.
 
+```text
 secure-application/
 │
 ├── identity/
@@ -340,35 +356,38 @@ secure-application/
     ├── secret management
     ├── monitoring
     └── secure deployment
+```
 
-Principles I value
+### 🛡️ Principles I Value
 
-Least Privilege
+**Least Privilege**  
 Give users and services only the access they actually require.
 
-Defense in Depth
-Avoid depending on one security control.
+**Defense in Depth**  
+Avoid depending on a single security control.
 
-Server Authority
+**Server Authority**  
 Critical permissions and business rules belong on the trusted backend.
 
-Auditability
+**Auditability**  
 Important actions should be traceable.
 
-Secure by Default
+**Secure by Default**  
 The safest state should be the default whenever possible.
 
-⸻
+---
 
-🤖 AI & Emerging Technologies
+# 🤖 AI & Emerging Technologies
 
-I’m expanding my understanding of Artificial Intelligence and AI-assisted software development.
+I'm expanding my understanding of **Artificial Intelligence and AI-assisted software development**.
 
-My goal is not only to use AI tools.
+My goal is not simply to use AI tools.
 
-I want to understand how intelligent capabilities can be integrated responsibly into real software systems.
+I want to understand how intelligent capabilities can be **integrated responsibly into real software systems**.
 
+```text
 AI ENGINEERING LEARNING PATH
+
 Modern AI
     │
     ├── Generative AI
@@ -387,24 +406,27 @@ Modern AI
     │
     ▼
 Software + Intelligence
-<div align="center">
+```
 
-AI does not replace engineering.
+<h3 align="center">
+  <code>AI does not replace engineering.</code>
+</h3>
 
-AI becomes more powerful when combined with strong engineering.
+<p align="center">
+  <strong>AI becomes more powerful when combined with strong engineering.</strong>
+</p>
 
-</div>
+### 🎓 Recent Learning
 
-🎓 Recent Learning
+**Cisco Networking Academy**
 
-Cisco Networking Academy
+`Introduction to Modern AI`
 
-Introduction to Modern AI
+---
 
-⸻
+# 🌱 Currently Strengthening
 
-🌱 Currently Strengthening
-
+```text
 2026.learning/
 │
 ├── advanced-full-stack-development/
@@ -430,16 +452,17 @@ Introduction to Modern AI
 ├── production-deployment/
 │
 └── ai-engineering/
-<div align="center">
+```
 
-Always learning. Always building. Always improving.
+<h3 align="center">
+  <code>Always learning. Always building. Always improving.</code>
+</h3>
 
-</div>
+---
 
-⸻
+# ⚙️ How I Approach Development
 
-⚙️ How I Approach Development
-
+```text
 ┌───────────────┐
 │   UNDERSTAND  │
 └───────┬───────┘
@@ -499,34 +522,48 @@ Prepare the system for real usage.
 ┌───────────────┐
 │    IMPROVE    │
 └───────────────┘
+```
 
-⸻
+---
 
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<div align="center">
-</div>
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eyzen08&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
-⸻
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eyzen08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Statistics" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Eyzen08&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 
-🏆 GitHub Achievements
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyzen08&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
 
-<div align="center">
-</div>
+---
 
-⸻
+# 🏆 GitHub Achievements
 
-📈 Contribution Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eyzen08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
-<div align="center">
-</div>
+---
 
-⸻
+# 📈 Contribution Activity
 
-🎯 Current Direction
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eyzen08&bg_color=00000000&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
-I’m working toward becoming a software developer who can understand and contribute across the complete software development lifecycle.
+---
 
+# 🎯 Current Direction
+
+I'm working toward becoming a software developer who can understand and contribute across the **complete software development lifecycle**.
+
+```text
                          IDEA
                           │
                           ▼
@@ -561,58 +598,72 @@ I’m working toward becoming a software developer who can understand and contri
                           │
                           ▼
               CONTINUOUS IMPROVEMENT
+```
 
-Professional interests
+### Professional Interests
 
-<div align="center">
-<img src="https://img.shields.io/badge/Software-Development-0EA5E9?style=for-the-badge" alt="Software Development"/>
-<img src="https://img.shields.io/badge/Full--Stack-Engineering-0284C7?style=for-the-badge" alt="Full Stack Engineering"/>
-<img src="https://img.shields.io/badge/Backend-Development-0369A1?style=for-the-badge" alt="Backend Development"/>
-<br/>
-<img src="https://img.shields.io/badge/System-Design-1D4ED8?style=for-the-badge" alt="System Design"/>
-<img src="https://img.shields.io/badge/Application-Security-059669?style=for-the-badge" alt="Application Security"/>
-<img src="https://img.shields.io/badge/Cloud-Technologies-0891B2?style=for-the-badge" alt="Cloud Technologies"/>
-<br/>
-<img src="https://img.shields.io/badge/UI%2FUX-Engineering-7C3AED?style=for-the-badge" alt="UI UX Engineering"/>
-<img src="https://img.shields.io/badge/AI-Engineering-4F46E5?style=for-the-badge" alt="AI Engineering"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software-Development-0EA5E9?style=for-the-badge" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineering-0284C7?style=for-the-badge" alt="Full Stack Engineering" />
+  <img src="https://img.shields.io/badge/Backend-Development-0369A1?style=for-the-badge" alt="Backend Development" />
+</p>
 
-⸻
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Design-1D4ED8?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/Application-Security-059669?style=for-the-badge" alt="Application Security" />
+  <img src="https://img.shields.io/badge/Cloud-Technologies-0891B2?style=for-the-badge" alt="Cloud Technologies" />
+</p>
 
-💎 Developer Values
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-Engineering-7C3AED?style=for-the-badge" alt="UI UX Engineering" />
+  <img src="https://img.shields.io/badge/AI-Engineering-4F46E5?style=for-the-badge" alt="AI Engineering" />
+</p>
 
-<div align="center">
+---
 
-CLEAN CODE
+# 💎 Developer Values
 
-Readable software is easier to understand and maintain.
+<h3 align="center"><code>CLEAN CODE</code></h3>
 
-SECURITY
+<p align="center">
+  Readable software is easier to understand and maintain.
+</p>
 
-Security should be considered from the beginning.
+<h3 align="center"><code>SECURITY</code></h3>
 
-USER EXPERIENCE
+<p align="center">
+  Security should be considered from the beginning.
+</p>
 
-Technology should make tasks easier — not harder.
+<h3 align="center"><code>USER EXPERIENCE</code></h3>
 
-RELIABILITY
+<p align="center">
+  Technology should make tasks easier — not harder.
+</p>
 
-Applications should be designed beyond the happy path.
+<h3 align="center"><code>RELIABILITY</code></h3>
 
-CONTINUOUS LEARNING
+<p align="center">
+  Applications should be designed beyond the happy path.
+</p>
 
-Technology changes. Good developers keep learning.
+<h3 align="center"><code>CONTINUOUS LEARNING</code></h3>
 
-PURPOSE
+<p align="center">
+  Technology changes. Good developers keep learning.
+</p>
 
-Technology is most valuable when it solves a real problem.
+<h3 align="center"><code>PURPOSE</code></h3>
 
-</div>
+<p align="center">
+  Technology is most valuable when it solves a real problem.
+</p>
 
-⸻
+---
 
-🚀 What I’m Working Toward
+# 🚀 What I'm Working Toward
 
+```text
 TODAY
   │
   ├── Strengthen software engineering fundamentals
@@ -632,65 +683,68 @@ TODAY
   └── Explore practical AI engineering
   │
   ▼
+
 FUTURE
+
 A well-rounded software engineer capable of
 designing, building, securing, deploying, and
 maintaining reliable real-world software systems.
+```
 
-⸻
+---
 
-💡 Developer Quote
+# 💡 Developer Quote
 
-<div align="center">
+<h3 align="center">
+  <code>"Code. Learn. Improve. Repeat."</code>
+</h3>
 
-"Code. Learn. Improve. Repeat."
+<p align="center">
+  <em>
+    Great software is not built in one attempt — it evolves through continuous learning and improvement.
+  </em>
+</p>
 
-<sub>
-Great software is not built in one attempt — it evolves through continuous learning and improvement.
-</sub>
-</div>
+---
 
-⸻
+# 🤝 Let's Connect
 
-🤝 Let’s Connect
+I'm open to **software development internships, junior developer opportunities, collaborations, open-source work, technology communities, and opportunities to learn from other engineers**.
 
-I’m open to software development internships, junior developer opportunities, collaborations, open-source work, technology communities, and opportunities to learn from other engineers.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ej-christian-medilo-a09049426/">
+    <img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ejchristianmedilo12@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<br/>
-<div align="center">
-<a href="https://www.linkedin.com/in/ej-christian-medilo-a09049426/">
-  <img
-    src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-<a href="mailto:ejchristianmedilo12@gmail.com">
-  <img
-    src="https://img.shields.io/badge/CONTACT-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
-</a>
-<a href="https://www.facebook.com/Eyzenen">
-  <img
-    src="https://img.shields.io/badge/CONNECT-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    alt="Facebook"
-  />
-</a>
-<a href="https://github.com/Eyzen08">
-  <img
-    src="https://img.shields.io/badge/FOLLOW-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-<br/>
+<p align="center">
+  <a href="https://www.facebook.com/Eyzenen">
+    <img src="https://img.shields.io/badge/CONNECT-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/Eyzen08">
+    <img src="https://img.shields.io/badge/FOLLOW-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-Build with purpose. Design with clarity. Engineer for reliability.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Thanks+for+visiting+my+GitHub+profile+%E2%AD%90;Keep+learning.+Keep+building.+Keep+improving.;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Closing Animation" />
+</p>
 
-<sub>
-Software Developer · Full-Stack · System Design · Security · AI & Continuous Learning
-</sub>
+<h3 align="center">
+  <code>Build with purpose. Design with clarity. Engineer for reliability.</code>
+</h3>
 
-@Eyzen08
+<p align="center">
+  <strong>
+    Software Developer · Full-Stack · System Design · Security · AI & Continuous Learning
+  </strong>
+</p>
 
-</div>
+<p align="center">
+  <strong>@Eyzen08</strong>
+</p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:0EA5E9&height=130&section=footer" />
