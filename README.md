@@ -1,506 +1,522 @@
-<div align="center">
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CINEMATIC HERO                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<a href="https://github.com/Eyzen08">
-</a>
+<divalign="center">
+<!--╔══════════════════════════════════════════════════════════════╗-->
+<!--║CYBERPUNKBOOTSEQUENCE║-->
+<!--╚══════════════════════════════════════════════════════════════╝-->
+<imgsrc="https://www.gitskins.com/api/section/hero?username=Eyzen08&theme=neon&style=aura"width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Developer+in+Progress;Full-Stack+Web+Developer;BSIT+Student+%7C+System+Builder;Exploring+AI+%7C+Cloud+%7C+Security;Building+STI+Vio-Log" />
-<a href="https://github.com/Eyzen08">
-<img src="https://img.shields.io/badge/GITHUB-Eyzen08-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://eyzen08.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ej-christian-medilo-a09049426/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Eyzen08&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<imgsrc="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;%3E+EJ+CHRISTIAN+MEDILO;%3E+BSIT+%7C+ASPIRING+SOFTWARE+DEVELOPER;%3E+FULL-STACK+%7C+AI+%7C+CYBERSECURITY;%3E+BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;%3E+INITIALIZING+NEXT+PROJECT..."alt="TypingAnimation"/>
+<br/>
+<imgsrc="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0F172A,100:050816&height=2&section=header"width="100%"/>
+<br/>
+[![GitHub](https://img.shields.io/badge/%3E_GITHUB-Eyzen08-050816?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Eyzen08)
+[![Portfolio](https://img.shields.io/badge/%3E_PORTFOLIO-ONLINE-050816?style=for-the-badge&logo=vercel&logoColor=8B5CF6)](https://eyzen08.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/%3E_LINKEDIN-CONNECT-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/ej-christian-medilo-a09049426/)
+[![Email](https://img.shields.io/badge/%3E_EMAIL-CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=EC4899)](mailto:ejchristianmedilo12@gmail.com)
+<br/><br/>
+<imgsrc="https://komarev.com/ghpvc/?username=Eyzen08&style=for-the-badge&color=38BDF8&label=PROFILE+VISITORS"/>
 </div>
-<br/>
+---
+<divalign="center">
+#`╔══SYSTEMPROFILE══╗`
+<imgsrc="https://www.gitskins.com/api/section/highlights?username=Eyzen08&theme=neon&style=aura"width="100%"/>
+</div>
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+││
+│███████╗██████╗██╗██╗███████╗███╗██╗│
+│██╔════╝██╔════╝██║██║██╔════╝████╗██║│
+│█████╗██║██║██║█████╗██╔██╗██║│
+│██╔══╝██║╚██╗██╔╝██╔══╝██║╚██╗██║│
+│███████╗╚██████╗╚████╔╝███████╗██║╚████║│
+│╚══════╝╚═════╝╚═══╝╚══════╝╚═╝╚═══╝│
+││
+│[IDENTITY]│
+│NAME::EJCHRISTIANMEDILO│
+│STATUS::ONLINE│
+│ROLE::BSITSTUDENT/ASPIRINGSOFTWAREDEVELOPER│
+│LOCATION::PHILIPPINES│
+││
+│[SPECIALIZATION]│
+│FRONTEND::React/Vite/WebUI│
+│BACKEND::Node.js/Express/API│
+│DATABASE::PostgreSQL/Supabase│
+│CLOUD::Vercel/Render│
+││
+│[ACTIVEDIRECTIVES]│
+│>BUILDREALSOFTWARE│
+│>IMPROVESYSTEMARCHITECTURE│
+│>EXPLOREARTIFICIALINTELLIGENCE│
+│>STUDYCYBERSECURITY│
+│>LEVELUPSOFTWAREENGINEERING│
+││
+╰──────────────────────────────────────────────────────────────────────╯
 
 ⸻
 
-<div align="center">
+<divalign=“center”>
 
-DESIGN • BUILD • SHIP • EVOLVE
+#>WHOAMI
 
-I don’t just write code. I build systems.
-
-<br/>
-
-Web Development   Software Engineering   AI   Cloud   Security   UI/UX
+<imgsrc=“https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+software+developer+in+progress;%3E+builder+%7C+learner+%7C+problem+solver;%3E+turning+ideas+into+working+systems”/>
 
 </div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         IDENTITY                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+$./profile--scan
+[+]Identityverified
+[+]Developerprofileloaded
+[+]Educationmodule...............ONLINE
+[+]Softwaredevelopment..........ONLINE
+[+]Webengineering...............ONLINE
+[+]Databaseengineering..........ONLINE
+[+]Clouddeployment..............ONLINE
+[+]AIexploration................ACTIVE
+[+]Cybersecuritylearning........ACTIVE
+STATUS:BUILDING
 
-01 — IDENTITY
+I’maBachelorofScienceinInformationTechnologystudentfocusedonbecomingawell-roundedsoftwaredeveloper.
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Ienjoybuildingsystemsthatconnect:
 
-EJ CHRISTIAN MEDILO
+UI→Frontend→Backend→Database→Authentication→Cloud
 
-BSIT Student · Aspiring Software Developer
+Mydevelopmentmindset:
 
-I’m a Bachelor of Science in Information Technology student focused on becoming a well-rounded software developer.
-
-I enjoy working across the stack — from designing interfaces and building APIs to working with databases, authentication, deployment, and system architecture.
-
-My development journey is centered around one principle:
-
-Build useful software. Understand how it works. Improve how it is built.
-
-Currently exploring the intersection of:
-
-Software Engineering
-Full-Stack Development
-Artificial Intelligence
-Cloud Technology
-Cybersecurity
-Modern UI/UX
-
-</td>
-<td width="42%" valign="top">
-
-SYSTEM PROFILE
-
-┌───────────────────────────────┐
-│  EJ CHRISTIAN MEDILO          │
-│  ───────────────────────────  │
-│                               │
-│  STATUS                       │
-│  ● Student / Developer        │
-│                               │
-│  EDUCATION                    │
-│  BS Information Technology    │
-│                               │
-│  LOCATION                     │
-│  Philippines                  │
-│                               │
-│  PRIMARY FOCUS                │
-│  Full-Stack Development       │
-│                               │
-│  CURRENT BUILD                │
-│  STI Vio-Log                  │
-│                               │
-│  NEXT FRONTIER                │
-│  AI + Software Engineering    │
-│                               │
-└───────────────────────────────┘
-</td>
-</tr>
-</table>
-<br/>
+LEARN
+↓
+BUILD
+↓
+TEST
+↓
+DEBUG
+↓
+IMPROVE
+↓
+DEPLOY
+↓
+REPEAT
 
 ⸻
 
-02 — ENGINEERING STACK
+<divalign=“center”>
 
-<div align="center">
-</div>
-<br/>
-<table>
-<tr>
-<td width="50%" valign="top">
+#╔══FEATUREDPROJECTS══╗
 
-LANGUAGES
-
-</td>
-<td width="50%" valign="top">
-
-FRONTEND
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-BACKEND
-
-</td>
-<td width="50%" valign="top">
-
-DATA + CLOUD
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-DEPLOYMENT
-
-</td>
-<td width="50%" valign="top">
-
-DEVELOPER TOOLS
-
-</td>
-</tr>
-</table>
-
-⸻
-
-03 — SELECTED WORK
-
-<div align="center">
-</div>
-<br/>
-
-01 / STI VIO-LOG
-
-A Web-Based Student Violation Monitoring and Incident Management System for STI Global City
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-STI Vio-Log is my major capstone project, designed for the STI Global City Discipline Office.
-
-The system transforms traditional paper-based discipline workflows into a centralized digital platform.
-
-CORE SYSTEM
-
-* Student Violation Management
-* Community Service Management
-* Digital Time Record
-* QR Time In / Time Out
-* Student & Officer Communication
-* Clearance Management
-* E-Signature
-* Reports & Monitoring
-* Role-Based Access Control
-* Authentication & Security
-
-</td>
-<td width="40%" valign="top">
-
-ARCHITECTURE
-
-        ┌─────────────┐
-        │   STUDENT   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   FRONTEND  │
-        │ React / Vite│
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │     API     │
-        │Node / Express│
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │ PostgreSQL  │
-        │  / Supabase │
-        └─────────────┘
-</td>
-</tr>
-</table>
-
-Technology
-
-React Vite Node.js Express PostgreSQL Supabase Socket.IO JWT Vercel Render
-
-<br/>
-<a href="https://github.com/Eyzen08/STI-Vio-Log">
-<img src="https://img.shields.io/badge/VIEW%20STI%20VIO--LOG-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-⸻
-
-02 / KWIZTORYA
-
-Interactive Educational Quiz Application
-
-An educational quiz application designed to make learning more interactive through quizzes, scoring, and digital learning experiences.
-
-Technology
-
-Java Android SDK XML Firebase SQLite AndroidX Gradle
-
-<br/>
-<a href="https://github.com/Eyzen08/Kwiztorya">
-<img src="https://img.shields.io/badge/VIEW%20KWIZTORYA-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-⸻
-
-03 / PERSONAL PORTFOLIO
-
-Developer Portfolio
-
-A personal portfolio focused on presenting my projects, technical skills, background, and development journey.
-
-Focus
-
-Web Development Responsive UI JavaScript Developer Experience
-
-<br/>
-<a href="https://github.com/Eyzen08/Portfolio">
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-⸻
-
-04 — GITHUB INTELLIGENCE
-
-<div align="center">
-</div>
-<br/>
-<div align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                       GITHUB SIGNAL
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-       CODE        BUILD        EXPERIMENT        SHIP
-         │            │              │             │
-         ▼            ▼              ▼             ▼
-      Learn  ───►  Create  ───►  Iterate  ───►  Improve
-                                                    │
-                                                    │
-                                                    ▼
-                                                  Repeat
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</div>
-
-⸻
-
-05 — CONTRIBUTION MATRIX
-
-<div align="center">
-<br/>
-
-Every contribution represents another iteration of the developer journey.
+<imgsrc=“https://www.gitskins.com/api/section/projects?username=Eyzen08&theme=neon&style=aura”width=“100%”/>
 
 </div>
 
 ⸻
 
-06 — DEVELOPER EVOLUTION
+##01//STIVIO-LOG
 
-<div align="center">
+###AWeb-BasedStudentViolationMonitoringandIncidentManagementSystem
+
+STIVio-LogismymajorcapstoneprojectforSTIGlobalCity,designedaroundtheworkflowoftheDisciplineOffice.
+
+┌───────────────────────────────────────────────────────────────┐
+│STIVIO-LOG│
+├───────────────────────────────────────────────────────────────┤
+││
+│STUDENTPORTALVIOLATIONMANAGEMENT│
+││││
+│▼▼│
+│COMMUNITYSERVICE───►DIGITALDTR│
+││││
+│▼▼│
+│QRATTENDANCE───────►MONITORING│
+││││
+│└──────────┬────────────┘│
+│▼│
+│DISCIPLINEOFFICE│
+│││
+│▼│
+│REPORTS/CLEARANCE│
+││
+└───────────────────────────────────────────────────────────────┘
+
+###CORESYSTEMMODULES
+
+-StudentViolationMonitoring
+-CommunityServiceManagement
+-DigitalTimeRecord
+-QRTimeIn/TimeOut
+-Student–DisciplineOfficeMessaging
+-ClearanceManagement
+-E-Signature
+-Reports&Monitoring
+-Role-BasedAccessControl
+-Authentication&Authorization
+
+###STACK
+
+React``Vite``Node.js``Express``PostgreSQL``Supabase``Socket.IO``JWT``Vercel``Render
+
+⸻
+
+##02//KWIZTORYA
+
+###InteractiveEducationalQuizApplication
+
+Alearning-focusedapplicationdesignedaroundinteractivequizzes,scoring,anddigitallearningexperiences.
+
+###STACK
+
+Java``AndroidSDK``XML``Firebase``SQLite``AndroidX``Gradle
+
+⸻
+
+##03//PORTFOLIO
+
+###PersonalDeveloperPortfolio
+
+Apersonalportfoliodesignedtopresentmyprojects,skills,experience,anddevelopmentjourney.
+
+⸻
+
+<divalign=“center”>
+
+#╔══GITHUBCORE══╗
+
+<br/>
+
+<imgsrc=“https://www.gitskins.com/api/section/stats?username=Eyzen08&theme=neon&style=aura”width=“100%”/>
+
+<imgsrc=“https://github-readme-streak-stats.herokuapp.com/?user=Eyzen08&theme=transparent&hide_border=true&background=050816&ring=38BDF8&fire=EC4899&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=64748B”width=“100%”/>
+
+</div>
+
+⸻
+
+<divalign=“center”>
+
+#╔══LANGUAGEMATRIX══╗
+
+<imgsrc=“https://github-readme-stats.vercel.app/api/top-langs/?username=Eyzen08&layout=donut&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A5B4FC&icon_color=EC4899&bg_color=050816&langs_count=8”width=“45%”/>
+
+<imgsrc=“https://github-readme-stats.vercel.app/api?username=Eyzen08&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&text_color=A5B4FC&icon_color=EC4899&bg_color=050816&include_all_commits=true&count_private=true”width=“50%”/>
+
+</div>
+
+⸻
+
+<divalign=“center”>
+
+#╔══CONTRIBUTIONNETWORK══╗
+
+<imgsrc=“https://github-readme-activity-graph.vercel.app/graph?username=Eyzen08&bg_color=050816&color=38BDF8&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=EJ%20CHRISTIAN%20MEDILO%20%7C%20CONTRIBUTION%20NETWORK”width=“100%”/>
+
+</div>
+
+⸻
+
+<divalign=“center”>
+
+#╔══ACTIVITYSCAN══╗
+
+<imgsrc=“https://www.gitskins.com/api/section/heatmap?username=Eyzen08&theme=neon&style=aura”width=“100%”/>
+
+<imgsrc=“https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eyzen08&theme=2077”width=“100%”/>
+
+</div>
+
+⸻
+
+<divalign=“center”>
+
+#╔══GITHUBTROPHIES══╗
+
+<imgsrc=“https://github-profile-trophy.vercel.app/?username=Eyzen08&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4”width=“100%”/>
+
+</div>
+
+⸻
+
+#>REPOSITORYACTIVITY
+
+╭────────────────────────────────────────────────────────────────────╮
+││
+│REPOSITORYNETWORK│
+││
+│STI-Vio-Log────────────────[CAPSTONE]│
+│││
+│├──Frontend│
+│├──Backend│
+│├──Database│
+│├──Authentication│
+│└──Deployment│
+││
+│Kwiztorya─────────────────[EDUCATION]│
+│││
+│├──Android│
+│├──Java│
+│└──Firebase│
+││
+│Portfolio─────────────────[PERSONAL]│
+│││
+│└──DeveloperIdentity│
+││
+╰────────────────────────────────────────────────────────────────────╯
+
+<divalign=“center”>
+
+<imgsrc=“https://www.gitskins.com/api/section/projects?username=Eyzen08&theme=neon&style=aura”width=“100%”/>
+
+</div>
+
+⸻
+
+<divalign=“center”>
+
+#╔══TECHARSENAL══╗
+
+<imgsrc=“https://www.gitskins.com/api/section/stack?username=Eyzen08&theme=neon&style=aura”width=“100%”/>
+
+</div>
+
+###PROGRAMMING
+
+###FRONTEND
+
+###BACKEND
+
+###DATABASE
+
+###CLOUD/DEVTOOLS
+
+⸻
+
+<divalign=“center”>
+
+#╔══SYSTEMCAPABILITIES══╗
+
+</div>
+╭────────────────────────────────────────────────────────────────────╮
+││
+│WEBENGINEERING│
+│████████████████████████████████████████░░░░│
+││
+│BACKEND/API│
+│█████████████████████████████████████░░░░░│
+││
+│DATABASE│
+│████████████████████████████████████░░░░░░│
+││
+│UI/UX│
+│███████████████████████████████████░░░░░░░│
+││
+│CLOUD/DEPLOYMENT│
+│█████████████████████████████████░░░░░░░░│
+││
+│CYBERSECURITY│
+│███████████████████████████░░░░░░░░░░░│
+││
+│ARTIFICIALINTELLIGENCE│
+│█████████████████████████░░░░░░░░░░░░│
+││
+╰────────────────────────────────────────────────────────────────────╯
+
+ThebarsrepresentareasI’mactivelydeveloping,notformalskillratings.
+
+⸻
+
+<divalign=“center”>
+
+#╔══AI/DEVELOPERFOCUS══╗
+
+<imgsrc=“https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2300&pause=800&color=EC4899&center=true&vCenter=true&width=800&lines=%5B+AI+MODULE%5D+EXPLORING;%5B+DEV+MODULE%5D+ENGINEERING;%5B+SECURITY+MODULE%5D+HARDENING;%5B+UX+MODULE%5D+DESIGNING;%5B+CLOUD+MODULE%5D+DEPLOYING”/>
+
+</div>
+┌──────────────────────┐
+│AI/ENGINEERING│
+└──────────┬───────────┘
+│
+┌───────────────────┼───────────────────┐
+▼▼▼
+┌───────────┐┌───────────┐┌───────────┐
+│AI││SOFTWARE││SECURITY│
+│││ENGINEER│││
+└─────┬─────┘└─────┬─────┘└─────┬─────┘
+│││
+└───────────────────┼───────────────────┘
+▼
+┌──────────────────────┐
+│USEFULSOFTWARE│
+└──────────────────────┘
+
+###CURRENTDIRECTIVES
+
+[01]Full-StackWebDevelopment
+[02]Backend&APIArchitecture
+[03]PostgreSQL/DatabaseDesign
+[04]Authentication&Authorization
+[05]CloudDeployment
+[06]SecureSoftwareDevelopment
+[07]ModernUI/UX
+[08]ArtificialIntelligence
+[09]DeveloperProductivity
+[10]SoftwareArchitecture
+
+⸻
+
+<divalign=“center”>
+
+#╔══DEVELOPERJOURNEY══╗
+
+</div>
 2021
-  │
-  ├── ICT / Computer Studies
-  │
-  ▼
+│
+├──ICT/ComputerStudies
+│
+▼
 2023
-  │
-  ├── BS Information Technology
-  ├── Programming Fundamentals
-  └── Software Development
-  │
-  ▼
+│
+├──BSInformationTechnology
+│
+├──Programming
+│
+└──SoftwareDevelopment
+│
+▼
 2024
-  │
-  ├── Academic Projects
-  ├── Web Development
-  ├── Programming Practice
-  └── Database Exploration
-  │
-  ▼
+│
+├──AcademicProjects
+│
+├──WebDevelopment
+│
+└──ApplicationDevelopment
+│
+▼
 2025
-  │
-  ├── STI Vio-Log
-  ├── Full-Stack Development
-  ├── Backend Architecture
-  ├── Authentication
-  ├── Database Engineering
-  └── Cloud Deployment
-  │
-  ▼
+│
+├──STIVio-Log
+│
+├──Full-StackDevelopment
+│
+├──DatabaseArchitecture
+│
+├──Authentication
+│
+└──CloudDeployment
+│
+▼
 2026
-  │
-  ├── Security Hardening
-  ├── Advanced UI/UX
-  ├── AI Exploration
-  ├── System Architecture
-  └── Professional Development
-  │
-  ▼
-NEXT
-  │
-  └──────────────► SOFTWARE DEVELOPER
-</div>
+│
+├──SystemHardening
+│
+├──UI/UXEngineering
+│
+├──AIExploration
+│
+├──Cybersecurity
+│
+└──ProfessionalDevelopment
+│
+▼
+NEXTNODE
+│
+└──SOFTWAREDEVELOPER
 
 ⸻
 
-07 — CURRENT MISSION
+<divalign=“center”>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#╔══SYSTEMLOG══╗
 
-BUILDING
-
-▸ Full-Stack Applications
-▸ REST APIs
-▸ Database Systems
-▸ Authentication Systems
-▸ Cloud Applications
-▸ Responsive Interfaces
-</td>
-<td width="50%" valign="top">
-
-EXPLORING
-
-▸ Artificial Intelligence
-▸ AI-Powered Applications
-▸ Software Architecture
-▸ Cybersecurity
-▸ Cloud Infrastructure
-▸ Developer Tooling
-</td>
-</tr>
-</table>
-<br/>
-<div align="center">
-
-CURRENT PRINCIPLE
-
-Don’t just learn a technology. Build something with it.
+<imgsrc=“https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=%5B10%3A00%3A01%5D+Loading+developer+profile…;%5B10%3A00%3A02%5D+Repositories+detected…;%5B10%3A00%3A03%5D+Projects+loaded…;%5B10%3A00%3A04%5D+Technology+matrix+initialized…;%5B10%3A00%3A05%5D+AI+module+standing+by…;%5B10%3A00%3A06%5D+Developer+mode+ACTIVE.”/>
 
 </div>
 
 ⸻
 
-08 — AI × SOFTWARE
+#>EDUCATION
 
-<div align="center">
-                    ┌─────────────────────┐
-                    │   ARTIFICIAL        │
-                    │   INTELLIGENCE      │
-                    └──────────┬──────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                │              │              │
-                ▼              ▼              ▼
-          AI FEATURES      AUTOMATION     DEVELOPER
-          & PRODUCTS                       PRODUCTIVITY
-                │              │              │
-                └──────────────┼──────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   USEFUL SOFTWARE   │
-                    └─────────────────────┘
-</div>
+###STICOLLEGE—GLOBALCITY
 
-I’m exploring how AI can become part of real software products through:
+BachelorofScienceinInformationTechnology
 
-* AI-assisted development
-* Intelligent application features
-* Automation
-* AI APIs
-* AI-powered user experiences
-* Developer productivity
-* Software architecture for AI applications
+2023—PRESENT
 
-The objective is to understand not only how to use AI, but how to integrate it responsibly into useful software systems.
+Focus:
+
+SoftwareDevelopment·Programming·Databases·WebDevelopment·SystemsAnalysis
 
 ⸻
 
-09 — EDUCATION
+###MOREHACADEMY
 
-🎓 STI COLLEGE — GLOBAL CITY
+InformationandCommunicationsTechnology
 
-Bachelor of Science in Information Technology
+2021—2023
 
-2023 – Present
+⸻
 
-Areas of focus:
+#>CERTIFICATIONDATABASE
 
-Software Development · Programming · Databases · Web Development · Systems Analysis
+┌─────────────────────────────────────────────────────────────────┐
+│CERTIFICATIONDATABASE│
+├─────────────────────────────────────────────────────────────────┤
+││
+│[✓]IntroductiontoModernAI│
+│CiscoNetworkingAcademy│
+││
+│[✓]CyberThreatManagement│
+│CiscoNetworkingAcademy│
+││
+│[✓]CodetoSuccess:MasteringSoftwareDevelopmentCycle│
+│JPCSClarendonCollege│
+││
+│[✓]CybersecurityQualityAssurance:Detect,Test,Secure│
+│EthelProgrammingComputerProgrammingServices│
+││
+│[✓]LEGOEducationalRoboticsandComputerTechnicalTraining│
+│UniversityoftheEastManila│
+││
+└─────────────────────────────────────────────────────────────────┘
+
+⸻
+
+<divalign=“center”>
+
+#╔══SOCIALNETWORK══╗
+
+<imgsrc=“https://www.gitskins.com/api/section/social?username=Eyzen08&theme=neon&style=aura”width=“100%”/>
+
+</div>
+
+⸻
+
+<divalign=“center”>
+
+<imgsrc=“https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0F172A,60:4C1D95,100:0E7490&height=160&section=footer&text=BUILD.%20LEARN.%20IMPROVE.%20REPEAT.&fontSize=24&fontColor=38BDF8&animation=twinkling&fontAlignY=65”width=“100%”/>
 
 <br/>
 
-💻 MOREH ACADEMY
+<imgsrc=“https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+SHUTDOWN%3A+NOT+REQUIRED;%3E+DEVELOPER+SESSION%3A+CONTINUES;%3E+NEXT+BUILD+LOADING…”/>
 
-Information and Communications Technology
-
-2021 – 2023
-
-⸻
-
-10 — CERTIFICATIONS
-
-<div align="center">
-
-Certification	Organization
-Introduction to Modern AI	Cisco Networking Academy
-Cyber Threat Management	Cisco Networking Academy
-Code to Success: Mastering Software Development Cycle for IS Professionals	JPCS Clarendon College
-Cybersecurity Quality Assurance: Detect, Test, Secure	Ethel Programming Computer Programming Services
-LEGO Educational Robotics and Computer Technical Training	University of the East Manila
+[CONNECTIONSTABLE]``[SYSTEMONLINE]``[BUILDING...]
 
 </div>
+```
 
-⸻
+###Whatchangedinthisversion
 
-11 — PROFESSIONAL PROFILE
+ThebiggestchangeisthatIswitchedtheGitSkinsvisualsystemfromGitHubDarktoNeon,whichGitSkinsspecificallydefinesasitsCyberpunkHUDtheme.
 
-<div align="center">
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│                 ENGINEERING MINDSET                       │
-│                                                           │
-│        Learn       Build       Break       Fix             │
-│          │           │          │          │              │
-│          └───────────┴──────────┴──────────┘              │
-│                         │                                 │
-│                         ▼                                 │
-│                      IMPROVE                              │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-</div>
+TheREADMEnowhasseveraldifferentmotionlayers:
 
-⸻
+-GitSkinsanimatedCyberpunkHero
+-GitSkinsanimatedHighlights
+-GitSkinsanimatedProjects
+-GitSkinsanimatedStats
+-GitSkinsanimatedHeatmap
+-GitSkinsanimatedStack
+-GitSkinsanimatedSocial
+-Typinganimations
+-Animatedcontribution/activitygraph
+-Animatedstreakstatistics
+-GitHubtrophyvisualization
+-Animatedfooter
+-Terminal/HUD-stylesystempanels
 
-12 — CONNECT
+IalsodeliberatelykeptSTIVio-Lognearthetop,becausethevisualeffectsshouldattractattention,butyouractualprojectshouldremaintheevidencerecruiterssee.GitSkinsitselfrecommendsusingmotiontoguideattentionratherthanmakingeverysectioncompetevisually.
 
-<div align="center">
-
-LET’S BUILD SOMETHING MEANINGFUL.
-
-I’m always open to learning, collaborating, discussing technology, and connecting with people interested in software development.
-
-<br/>
-<a href="https://github.com/Eyzen08">
-<img src="https://img.shields.io/badge/GitHub-Eyzen08-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://eyzen08.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ej-christian-medilo-a09049426/">
-<img src="https://img.shields.io/badge/LinkedIn-EJ%20Christian%20Medilo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ejchristianmedilo12@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Eyzen08&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-</div>
-<br/>
-
-⸻
-
-<div align="center">
-
-© EJ CHRISTIAN MEDILO
-
-BSIT Student · Aspiring Software Developer
-
-<br/>
-
-Designed with intention. Built with curiosity. Continuously evolving.
-
-</div>
+**Onenote:**thestreak/trophy/activityservicesareexternaldynamicSVGservices,soifonetemporarilyhasanoutage,thatindividualwidgetmaynotrendereventhoughtherestoftheREADMEworks.
