@@ -8,12 +8,30 @@
 
 <br><br>
 
-<a href="https://github.com/Eyzen08">
-<img src="https://img.shields.io/badge/GITHUB-EYZEN08-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub">
+<a href="https://eyzen08.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio">
 </a>
 
-<a href="https://github.com/Eyzen08/STI-Vio-Log">
-<img src="https://img.shields.io/badge/STI_VIO--LOG-FEATURED_PROJECT-0B1220?style=for-the-badge&logo=github&logoColor=A78BFA" alt="STI Vio-Log">
+<a href="https://github.com/Eyzen08/STI-Vio-Log" target="_blank">
+<img src="https://img.shields.io/badge/STI_VIO--LOG-REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="STI Vio-Log Repository">
+</a>
+
+<a href="http://sti-vio-log.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/STI_VIO--LOG-LIVE-0B1220?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="STI Vio-Log Live">
+</a>
+
+<br><br>
+
+<a href="https://www.facebook.com/share/19J8Z4wfW6/?mibextid=wwXIfr" target="_blank">
+<img src="https://img.shields.io/badge/FACEBOOK-CONNECT-0B1220?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/ej.eyzen/" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-@EJ.EYZEN-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+</a>
+
+<a href="https://github.com/Eyzen08" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-EYZEN08-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub">
 </a>
 
 <br><br>
@@ -208,8 +226,12 @@ The project focuses on transforming manual student violation and community-servi
 
 <div align="center">
 
-<a href="https://github.com/Eyzen08/STI-Vio-Log">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-38BDF8?style=for-the-badge&logo=github&logoColor=050816" alt="View STI Vio-Log Repository">
+<a href="http://sti-vio-log.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-38BDF8?style=for-the-badge&logo=vercel&logoColor=050816" alt="Open STI Vio-Log Live Project">
+</a>
+
+<a href="https://github.com/Eyzen08/STI-Vio-Log" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="STI Vio-Log Source Code">
 </a>
 
 </div>
@@ -228,7 +250,7 @@ A learning-focused application built around interactive quizzes, scoring, and di
 
 <div align="center">
 
-<a href="https://github.com/Eyzen08/Kwiztorya">
+<a href="https://github.com/Eyzen08/Kwiztorya" target="_blank">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-A78BFA?style=for-the-badge&logo=github&logoColor=050816" alt="View Kwiztorya Repository">
 </a>
 
@@ -244,8 +266,12 @@ A personal portfolio focused on presenting projects, technical interests, educat
 
 <div align="center">
 
-<a href="https://github.com/Eyzen08/Portfolio">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-22D3EE?style=for-the-badge&logo=github&logoColor=050816" alt="View Portfolio Repository">
+<a href="https://eyzen08.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Open Portfolio">
+</a>
+
+<a href="https://github.com/Eyzen08/Portfolio" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Portfolio Source Code">
 </a>
 
 </div>
@@ -639,7 +665,7 @@ Areas of study include:
 
 **Cybersecurity**
 
-`██████████████░░░░░░░░░░`
+`██████████████░░░░░░░░░░░`
 
 **Artificial Intelligence**
 
@@ -694,17 +720,41 @@ Areas of study include:
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/social?username=Eyzen08&theme=neon&style=aura" width="100%" alt="GitSkins Social Links" />
+<img src="https://www.gitskins.com/api/section/social?username=Eyzen08&theme=neon&style=aura" width="100%" alt="EYZEN Social Links" />
 
 <br><br>
 
-<a href="https://github.com/Eyzen08">
+<a href="https://github.com/Eyzen08" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-EYZEN08-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub">
 </a>
 
-<a href="https://github.com/Eyzen08/Portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0B1220?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio">
+<a href="https://eyzen08.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-0B1220?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Portfolio">
 </a>
+
+<a href="http://sti-vio-log.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/STI_VIO--LOG-LIVE_PROJECT-0B1220?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="STI Vio-Log">
+</a>
+
+<br><br>
+
+<a href="https://www.facebook.com/share/19J8Z4wfW6/?mibextid=wwXIfr" target="_blank">
+<img src="https://img.shields.io/badge/FACEBOOK-PROFILE-0B1220?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/ej.eyzen/" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-@EJ.EYZEN-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+</a>
+
+<a href="mailto:ejchristianmedilo12@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a>
+
+<br><br>
+
+<sub>
+GitHub · Portfolio · STI Vio-Log · Facebook · Instagram · Email
+</sub>
 
 </div>
 
@@ -728,6 +778,6 @@ Areas of study include:
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Eyzen08&style=flat-square&color=38BDF8&label=PROFILE" alt="Profile">
+<img src="https://komarev.com/ghpvc/?username=Eyzen08&style=flat-square&color=38BDF8&label=PROFILE" alt="Profile Views">
 
 </div>
